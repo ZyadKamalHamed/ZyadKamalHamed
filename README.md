@@ -21,9 +21,9 @@
 **Currently Learning:** Advanced TensorFlow, React, FastAPI, PyTorch, SQL
 
 ## 📈 Recent Achievements
-- 🏆 **Top 15%** in Kaggle customer churn prediction competition
-- 🎯 **90%+ client satisfaction** managing e-commerce operations
 - 🎨 **Delivered end-to-end UX design** from research to live website deployment
+- - 🎯 **90%+ client satisfaction** managing e-commerce operations
+- 🏆 **Top 15%** in Kaggle customer churn prediction competition
 - 📜 **Google UX Design Certified** with 3 hands-on case studies
 
 **Currently seeking tech internship opportunities for 2025/2026** 🔍
