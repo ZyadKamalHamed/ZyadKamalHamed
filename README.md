@@ -10,7 +10,7 @@
 🎨 Combining technical AI expertise with human-centered design principles
 
 ## 🚀 What I'm Working On
-- **AI Agents & Automation** - Experimenting with intelligent workflows across Relevance AI, Zapier, and custom API integrations
+- **AI Agents & Automation** - Experimenting with intelligent workflows across several platforms using custom API integrations, plus building Model Context Protocols (MCPs) for structured AI interactions
 - **Machine Learning Projects** - Competing in Kaggle challenges and developing predictive models
 - **Full-Stack Applications** - Creating Java-based management systems with intuitive UIs
 
