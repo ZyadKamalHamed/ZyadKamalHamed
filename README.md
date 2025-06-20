@@ -16,9 +16,9 @@
 
 ## 🛠️ Tech Stack
 **Languages:** Python, Java, HTML/CSS  
-**AI/ML:** TensorFlow, Scikit-learn, KNIME, NumPy, Neural Networks  
-**Tools:** ChatGPT/Claude APIs, Git, Figma, Blender  
-**Currently Learning:** Advanced TensorFlow, React, FastAPI, PyTorch, SQL
+**AI/ML:** TensorFlow, Scikit-learn, KNIME, NumPy, Neural Networks, Relevance AI, Bland, Zapier
+**Tools:** ChatGPT/Claude APIs, Git, Figma, Blender, Adobe Suite
+**Currently Learning:** Advanced TensorFlow, React, FastAPI, PyTorch, SQL, MCPs
 
 ## 📈 Recent Achievements
 - 🎨 **Delivered end-to-end UX design** from research to live website deployment
