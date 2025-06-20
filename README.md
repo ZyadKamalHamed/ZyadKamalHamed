@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+My name is Zyad, an aspiring Ai Engineer and practising UX Designer studying a bachelor of AI at UTS Sydney, NSW
+
+- 🔭 I’m currently working on building AI projects using different low code and heavy code tools
+- 🌱 I’m currently learning Tesnor Flow with the DeepLearning.ai Coursera -> https://www.coursera.org/professional-certificates/tensorflow-in-practice
+- 🤔 I’m looking to continue growing and learning within the right company.
 
 
 <!--
