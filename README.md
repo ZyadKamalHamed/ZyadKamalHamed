@@ -1,23 +1,32 @@
-## Hi there 👋
+# Hi, I'm Zyad 👋
 
-My name is Zyad, an aspiring Ai Engineer and practising UX Designer studying a bachelor of AI at UTS Sydney, NSW
+**AI Engineering Student | UX Designer | Passionate Problem Solver**
 
-- 🔭 I’m currently working on building AI projects using different low code and heavy code tools
-- 🌱 I’m currently learning Tesnor Flow with the DeepLearning.ai Coursera -> https://www.coursera.org/professional-certificates/tensorflow-in-practice
-- 🤔 I’m looking to continue growing and learning within the right company.
+🎓 **Bachelor of Artificial Intelligence** @ University of Technology Sydney (Distinction Average)  
+🔬 Passionate about creating AI solutions that solve real-world problems  
+🎨 Combining technical AI expertise with human-centered design principles
 
+## 🚀 What I'm Working On
+- **AI Agents & Automation** - Experimenting with intelligent workflows across Relevance AI, Zapier, and custom API integrations
+- **Machine Learning Projects** - Competing in Kaggle challenges and developing predictive models
+- **Full-Stack Applications** - Creating Java-based management systems with intuitive UIs
 
-<!--
-**ZyadKamalHamed/ZyadKamalHamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
+**Languages:** Python, Java, HTML/CSS  
+**AI/ML:** TensorFlow, Scikit-learn, KNIME, NumPy, Neural Networks  
+**Tools:** ChatGPT/Claude APIs, Git, Figma, Blender  
+**Currently Learning:** Advanced TensorFlow, React, FastAPI, PyTorch, SQL
 
-Here are some ideas to get you started:
+## 📈 Recent Achievements
+- 🏆 **Top 15%** in Kaggle customer churn prediction competition
+- 🎯 **90%+ client satisfaction** managing e-commerce operations
+- 🎨 **Delivered end-to-end UX design** from research to live website deployment
+- 📜 **Google UX Design Certified** with 3 hands-on case studies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zyadkamalhamed/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zyad2408@live.com.au)
+
+**Currently seeking tech internship opportunities for 2025/2026** 🔍
+
+---
