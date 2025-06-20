@@ -11,7 +11,7 @@
 
 ## 🚀 What I'm Working On
 - **AI Agents & Automation** - Experimenting with intelligent workflows across several platforms using custom API integrations, plus building Model Context Protocols (MCPs) for structured AI interactions
-- **Machine Learning Projects** - Competing in Kaggle challenges and developing predictive models
+- **Deep Learning with TensorFlow** - Completing DeepLearning.AI professional certificate, building neural networks for computer vision, NLP, and time series forecasting
 - **Full-Stack Applications** - Creating Java-based management systems with intuitive UIs
 
 ## 🛠️ Tech Stack
