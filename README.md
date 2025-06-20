@@ -15,15 +15,14 @@
 - **Full-Stack Applications** - Creating Java-based management systems with intuitive UIs
 
 ## 🛠️ Tech Stack
-**Languages:** Python, Java, HTML/CSS  
-**AI/ML:** TensorFlow, Scikit-learn, KNIME, NumPy, Neural Networks, Relevance AI, Bland, Zapier
-**Tools:** ChatGPT/Claude APIs, Git, Figma, Adobe Suite
-
-**Currently Learning:** Advanced TensorFlow, React, FastAPI, PyTorch, SQL, MCPs
+- **Languages:** Python, Java, HTML/CSS  
+- **AI/ML:** TensorFlow, Scikit-learn, KNIME, NumPy, Neural Networks, Relevance AI, Bland, Zapier
+- **Tools:** ChatGPT/Claude APIs, Git, Figma, Adobe Suite
+- **Currently Learning:** Advanced TensorFlow, React, FastAPI, PyTorch, SQL, MCPs
 
 ## 📈 Recent Achievements
 - 🎨 **Delivered end-to-end UX design** from research to live website deployment
-- - 🎯 **90%+ client satisfaction** managing e-commerce operations
+- 🎯 **90%+ client satisfaction** managing e-commerce operations
 - 🏆 **Top 15%** in Kaggle customer churn prediction competition
 - 📜 **Google UX Design Certified** with 3 hands-on case studies
 
