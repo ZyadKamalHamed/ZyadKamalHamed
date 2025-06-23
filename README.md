@@ -10,13 +10,13 @@
 🎨 Combining technical AI expertise with human-centered design principles
 
 ## 🚀 What I'm Working On
+- **Medical Computer Vision Model** - Building an advanced skin cancer detection system using PyTorch and transfer learning on the HAM10000 dataset, targeting 90%+ accuracy across 7 cancer types with production-ready deployment
 - **AI Agents & Automation** - Experimenting with intelligent workflows across several platforms using custom API integrations, plus building Model Context Protocols (MCPs) for structured AI interactions
 - **Deep Learning with TensorFlow** - Completing DeepLearning.AI professional certificate, building neural networks for computer vision, NLP, and time series forecasting
-- **Full-Stack Applications** - Creating Java-based management systems with intuitive UIs
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, Java, HTML/CSS  
-- **AI/ML:** TensorFlow, Scikit-learn, KNIME, NumPy, Neural Networks, Relevance AI, Bland, Zapier
+- **AI/ML:** TensorFlow, PyTorch, Scikit-learn, KNIME, NumPy, Neural Networks, Relevance AI, Bland, Zapier
 - **Tools:** ChatGPT/Claude APIs, Git, Figma, Adobe Suite
 - **Currently Learning:** Advanced TensorFlow, React, FastAPI, PyTorch, SQL, MCPs
 
