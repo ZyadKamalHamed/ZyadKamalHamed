@@ -3,7 +3,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zyad2408@live.com.au)
 [![UX Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://zyadkamalhamed.work)
 
-**AI Engineering Student | UX Designer | Passionate Problem Solver**
+**AI Specialist @ The General Stpre | Ai Engineering Student @ UTS | UX Designer |**
 
 🎓 **Bachelor of Artificial Intelligence** @ University of Technology Sydney (Distinction Average)  
 🔬 Passionate about creating AI solutions that solve real-world problems  
