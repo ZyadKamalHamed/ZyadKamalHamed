@@ -3,7 +3,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zyad2408@live.com.au)
 [![UX Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://zyadkamalhamed.work)
 
-**AI Specialist @ The General Stpre | Ai Engineering Student @ UTS | UX Designer |**
+**AI Specialist @ The General Store | Ai Engineering Student @ UTS | UX Designer |**
 
 🎓 **Bachelor of Artificial Intelligence** @ University of Technology Sydney (Distinction Average)  
 🔬 Passionate about creating AI solutions that solve real-world problems  
@@ -17,7 +17,7 @@
 ## 🛠️ Tech Stack
 - **Languages:** Python, Java, HTML/CSS  
 - **AI/ML:** TensorFlow, PyTorch, Scikit-learn, KNIME, NumPy, Neural Networks, Relevance AI, Bland, Zapier
-- **Tools:** ChatGPT/Claude APIs, Git, Figma, Adobe Suite
+- **Tools:** ChatGPT/Claude APIs, Git, Gemini, Perplexity, Figma, Adobe Suite
 - **Currently Learning:** Advanced TensorFlow, React, FastAPI, PyTorch, SQL, MCPs
 
 ## 📈 Recent Achievements
@@ -26,6 +26,5 @@
 - 🏆 **Top 15%** in Kaggle customer churn prediction competition
 - 📜 **Google UX Design Certified** with 3 hands-on case studies
 
-**Currently seeking tech internship opportunities for 2025/2026** 🔍
 
 ---
