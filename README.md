@@ -11,23 +11,23 @@
 
 ---
 
-## 🚀 What I'm Working On  
-- **Medical Computer Vision Model** — Optimising a skin cancer detection pipeline using PyTorch, custom CNNs and ResNet-50 transfer learning on HAM10000 targeting 90%+ accuracy and deployability  
-- **AI Web Application** — Developing a UI-driven tool powered by Google Nano’s API**, enabling users to dynamically swap and render visual elements within product scenes through an interactive interface  
-- **AI Agents & Automation** — Building intelligent business workflows using custom API integrations, Google App Script and webhook-based automation to improve operational efficiency and miinising costs by utilising current workspace systemss.
+## 🚀 Current Projects  
+- **AI Prompt Enhancement Platform** — Built full-stack web app integrating Gemini and Leonardo APIs for prompt optimisation, deployed on HuggingFace and adopted by 70+ team members  
+- **Sentiment Analysis Research** — Compared Naive Bayes, SVM, and Logistic Regression on 8,000 ChatGPT reviews, achieved 91.1% accuracy with SVM using TF-IDF vectorisation  
+- **Customer Churn Prediction** — Engineered ensemble models for Kaggle competition, placed top 15% using decision trees, SVM, and neural networks with feature engineering  
 
 ---
 
 ## 🛠️ Tech Stack  
 **Programming & ML Frameworks:** Python, JavaScript, SQL, scikit-learn, Pandas, NumPy, PyTorch, TensorFlow  
 **Data Engineering & Automation:** Google App Script, Webhooks, Power BI, Tableau, Excel (Advanced), KNIME, API Pipelines  
-**Generative & Applied AI:** Gemini, Claude, OpenAI, Nano, Hugging Face, Perplexity, Image Gen, Video Gen, Prompt engineering
+**Generative & Applied AI:** Gemini, Claude, OpenAI, Nano, Hugging Face, Perplexity, Image Gen, Video Gen, Prompt engineering  
 **Cloud & Deployment:** Google Cloud Platform, Microsoft Azure, Streamlit, Hugging Face Spaces, GitHub  
 **Development & Collaboration:** VS Code, Jet Brains, Jupyter Notebook, Jira, Slack, Google Workspace
 
 ---
 
 ## 📈 Recent Achievements  
-- 🎨 **Delivered end-end AI TVC for REBEL SPORTS** using prompt engineering and video generation  
+- 🎨 **Delivered end-to-end AI TVC for REBEL SPORTS** using prompt engineering and video generation  
 - 🎯 **Reduced operational costs by 6 figures** within 2 weeks of employment by optimising processes with AI  
-- 🏆 **Trained over 70 employees on Gen AI workflows** in various use cases  
+- 🏆 **Trained over 70 employees on Gen AI workflows** in various use cases
