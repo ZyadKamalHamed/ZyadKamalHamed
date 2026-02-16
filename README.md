@@ -3,15 +3,15 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zyad2408@live.com.au)  
 
 **AI Specialist @ The General Store | AI Engineering Student @ UTS**  
-*Building intelligent automation systems across vision, design, and data.*
 
 🎓 **Bachelor of Artificial Intelligence** — University of Technology Sydney (Distinction Average)  
-🔬 Focused on practical AI applications across business, automation, and computer vision  
-🎨 Blending technical precision with human-centred design principles  
+Focused on practical AI applications across business, automation, and computer vision  
+Blending technical precision with human-centred design principles  
 
 ---
 
 ## 🚀 Current Projects  
+- **Onboarding Platform for The General Store** - Building a webapp using react and typescript with a firebase backend and vercel deployment for onboarding company employees
 - **AI Prompt Enhancement Platform** — Built full-stack web app integrating Gemini and Leonardo APIs for prompt optimisation, deployed on HuggingFace and adopted by 70+ team members  
 - **Sentiment Analysis Research** — Compared Naive Bayes, SVM, and Logistic Regression on 8,000 ChatGPT reviews, achieved 91.1% accuracy with SVM using TF-IDF vectorisation  
 - **Customer Churn Prediction** — Engineered ensemble models for Kaggle competition, placed top 15% using decision trees, SVM, and neural networks with feature engineering  
