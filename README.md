@@ -4,7 +4,7 @@
 
 **AI Specialist @ The General Store | AI Engineering Student @ UTS**  
 
-🎓 **Bachelor of Artificial Intelligence** — University of Technology Sydney (Distinction Average)  
+🎓 **Bachelor of Artificial Intelligence** University of Technology Sydney (Distinction Average)  
 Focused on practical AI applications across business, automation, and computer vision  
 Blending technical precision with human-centred design principles  
 
